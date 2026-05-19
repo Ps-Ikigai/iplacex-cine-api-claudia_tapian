@@ -1,1 +1,1 @@
-# iplacex-cine-api-claudia_tapian
+API REST Express para administración de películas favoritas de empleados de IPLACEX
